@@ -1,0 +1,38 @@
+[
+    {
+        "categoria": "saudação",
+        "resposta": "Olá! Sou o assistente virtual do seu cartão. Como posso ajudar você hoje?"
+    },
+    {
+        "categoria": "limite",
+        "resposta": "Para consultar seu limite disponível ou solicitar um aumento, acesse o aplicativo na aba 'Cartões' > 'Meus Limites'."
+    },
+    {
+        "categoria": "fatura",
+        "resposta": "Você pode visualizar os detalhes da sua fatura, gerar a segunda via do boleto ou solicitar o parcelamento diretamente pelo nosso aplicativo ou internet banking."
+    },
+    {
+        "categoria": "bloqueio",
+        "resposta": "Caso não reconheça uma compra ou tenha perdido o cartão, posso realizar o bloqueio imediato por segurança. Deseja que eu bloqueie o cartão agora?"
+    },
+    {
+        "categoria": "cancelamento",
+        "resposta": "Poxa, lamento saber disso! Para realizar o cancelamento definitivo do seu cartão, vou precisar transferir você para um de nossos atendentes. Deseja prosseguir?"
+    },
+    {
+        "categoria": "senha",
+        "resposta": "Esqueceu sua senha? Não tem problema. Você pode redefinir, recuperar ou visualizar a senha de 4 dígitos acessando a seção 'Configurações' > 'Senha do Cartão' no app."
+    },
+    {
+        "categoria": "anuidade",
+        "resposta": "Nossa anuidade ajuda a manter benefícios exclusivos. Para verificar se você tem direito à isenção da tarifa de acordo com seus gastos mensais, acesse a aba 'Anuidade' no menu."
+    },
+    {
+        "categoria": "pontos",
+        "resposta": "Seu programa de pontos está ativo! Você pode consultar seu saldo, resgatar produtos, milhas ou cashback acessando o app na aba 'Benefícios e Pontos'."
+    },
+    {
+        "categoria": "segurança",
+        "resposta": "A sua segurança é nossa prioridade. Lembre-se: nunca pedimos sua senha ou CVV por telefone, e-mail ou WhatsApp. Para relatar fraudes, digite 'fraude'."
+    }
+]
